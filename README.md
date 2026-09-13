@@ -1,4 +1,4 @@
-# BASIC_QUESTION_1 - NEOSOFT
+# BASIC_QUESTIONS - NEOSOFT
 
 This repository contains solutions to 20 fundamental Python programming and DSA-based problems. These problems were part of a coding exercise and cover essential concepts such as strings, numbers, lists, dictionaries, loops, recursion, and mathematical logic.
 
@@ -53,4 +53,4 @@ BASIC_QUESTION_1 - NEOSOFT/
 Make sure Python is installed.
 
 ```bash
-python q1.py
+python file_name.py
